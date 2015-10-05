@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="colorWindowBackground">#e8d3f9</color>
+    <color name="colorWebsiteTitle">#2d81ff</color>
+    <color name="colorMovieTitle">#FFFFFF</color>
+    <color name="colorGridItem1">#8E24AA</color>
+    <color name="colorGridItem2">#5E35B1</color>
+    <color name="colorGridItem3">#3949AB</color>
+    <color name="colorGridItem4">#1E88E5</color>
+    <color name="colorGridItem5">#039BE5</color>
+    <color name="colorGridItem6">#00ACC1</color>
+    <color name="colorGridItem7">#00897B</color>
+    <color name="colorGridItem8">#43A047</color>
+    <color name="colorGridItem9">#7CB342</color>
+    <color name="colorGridItem10">#C0CA33</color>
+    <color name="colorGridItem11">#F4511E</color>
+    <color name="colorGridItem12">#546E7A</color>
+    <color name="colorGridItem13">#3e7a6c</color>
+    <color name="colorGridItem14">#7a4571</color>
+    <color name="colorGridItem15">#FFA000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
